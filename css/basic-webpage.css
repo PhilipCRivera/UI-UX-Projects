@@ -1,0 +1,33 @@
+button {
+    background-color: #fed0bb;
+    font-family: didot;
+    font-size: large;
+    color: #900c3f;
+}
+body {
+    background-color: #5d4e60;
+    text-align: center;
+}
+
+header {
+    background-color: #c98686;
+}
+
+footer {
+    background-color: #900c3f;
+    font-family: didot;
+    font-size: 30px;
+    color: white;
+}
+
+h1 {
+    font-family: brush script mt;
+    font-size: 70px;
+    color: white;
+}
+
+p {
+    font-family: brush script mt;
+    font-size: 30px;
+    color: white;
+}
