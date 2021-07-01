@@ -2,8 +2,11 @@
 In this reporistory you can find websites designed with CSS, Photoshop and Adobe XD!
 
 # Projects
+
 • Magazine Layout
+
 • Canyon Hikers Case Study 
+
 • Responsive-Layout
 
 # Magazine Layout
