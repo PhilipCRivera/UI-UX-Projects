@@ -30,5 +30,7 @@ and what the nav bar, footer, buttons and their logo would look like.
 # Responsive-Layout
 This is an example of a website that responds when its size changes! When the size of the screen decreases, the website's design  
 
-becomes responsive and organizes in a stacking fashion. In turn, when the screen size goes back to normal, the design layout returns back to normal as well.
+becomes responsive and organizes in a stacking fashion. In turn, when the screen size goes back to normal,
+
+the design layout returns back to normal as well.
 
